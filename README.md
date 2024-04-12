@@ -1,18 +1,18 @@
 <div align=center>  
-  <h3>About Me</h3>
+  <h3>Привет!</h3>
 </div>
 
-Привет, я Кирилл &ndash; Python Backend Developer
+Меня зовут Кирилл и я Python Backend Developer
 
-На данный момент нигде не работаю, но активно ее ищу! 
+На данный момент нигде не работаю, но активно ищу свое место в жизни, где смогу развиваться еще быстрее и становиться круче!
 
-Параллельно заканчиваю 4 курс 🎓 НИУ &laquo;МЭИ&raquo; по специальности &laquo;Информатика и вычислительная техника&raquo;.
+Параллельно заканчиваю 4 курс 🎓 НИУ &laquo;МЭИ&raquo; по специальности &laquo;Информатика и вычислительная техника&raquo;
 
-Сейчас совершенствуюсь в FastAPI и изучаю RabbitMQ.
+Сейчас совершенствуюсь в FastAPI и изучаю RabbitMQ
   
 <div align=center>  
   
-  <h3>Stack</h3>
+  <h3>Используемый стек</h3>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![FastAPI](https://img.shields.io/badge/fastapi-04988b?style=for-the-badge&logo=fastapi&color=white)
@@ -22,7 +22,7 @@
   ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
   ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git)
   
-  <h3>Contact Me</h3>
+  <h3>Мои контакты</h3>
   
   ![Telegram](https://img.shields.io/badge/%40kirysha__gaa-badge?style=for-the-badge&logo=telegram&logoColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkirysha_gaa)
   ![GMail](https://img.shields.io/badge/Gmail-badge?style=for-the-badge&logo=gmail&logoColor=white&color=red&link=sosnovskix.kir2001%40gmail.com)
