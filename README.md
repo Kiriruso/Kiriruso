@@ -1,5 +1,5 @@
 <div align=center>  
-  <h3>Привет!</h3>
+  <h3>Hello, World!</h3>
 </div>
 
 Меня зовут Кирилл и я Python Backend Developer
@@ -12,7 +12,7 @@
   
 <div align=center>  
   
-  <h3>Используемый стек</h3>
+  <h3>Stack</h3>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![FastAPI](https://img.shields.io/badge/fastapi-04988b?style=for-the-badge&logo=fastapi&color=white)
@@ -22,7 +22,7 @@
   ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
   ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git)
   
-  <h3>Мои контакты</h3>
+  <h3>About Me</h3>
   
   ![Telegram](https://img.shields.io/badge/%40kirysha__gaa-badge?style=for-the-badge&logo=telegram&logoColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkirysha_gaa)
   ![GMail](https://img.shields.io/badge/Gmail-badge?style=for-the-badge&logo=gmail&logoColor=white&color=red&link=sosnovskix.kir2001%40gmail.com)
