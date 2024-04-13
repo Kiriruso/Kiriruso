@@ -25,7 +25,7 @@
   <h3>Contact Me</h3>
   
   [![Telegram](https://img.shields.io/badge/%40kirysha__gaa-badge?style=for-the-badge&logo=telegram&logoColor=white&color=blue)](https://t.me/kirysha_gaa)
-  [![GMail](https://img.shields.io/badge/Gmail-badge?style=for-the-badge&logo=gmail&logoColor=white&color=red)](sosnovskix.kir2001@gmail.com)
+  [![GMail](https://img.shields.io/badge/Gmail-badge?style=for-the-badge&logo=gmail&logoColor=white&color=red)](mailto:sosnovskix.kir2001@gmail.com)
   [![HeadHunter](https://img.shields.io/badge/Head_Hunter-e1011c?style=for-the-badge&logo=headhunter)](https://hh.ru/resume/585bb963ff0d1184920039ed1f6a7233564957)
   
 </div>
