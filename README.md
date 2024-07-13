@@ -16,23 +16,23 @@
     "speciality": "Informatics and Computer Science",
     "year": 4
   },
-  "main_activity": "Python Backend Developer",
-  "work": "In search"
+  "main_activity": "Python QA",
+  "additional_activity": "Backend",
+  "work": "YADRO"
 }
 ```
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=24&duration=3000&pause=1000&color=6A48D7&vCenter=true&random=true&width=500&height=24&lines=%2Fme;%2Fkiriruso)
 
-I'm a Python Backend Developer, I've been writing in Python for about a year, I also have a background in C++ for about two years)
+I'm a Python Developer, I've been writing in Python for about a year, I also have a background in C++ for about two years)
 
-I’m currently finishing my university studies and actively looking for my place in life!
+I completed my bachelor's degree in MPEI and am now developing in Automation QA and additionally in Backend areas.
 
 I will be glad to meet new people✨
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=24&duration=3000&pause=1000&color=6A48D7&vCenter=true&random=false&width=500&height=24&lines=%2Fstudying;%2Fimproving)
-- FastAPI
-- PostgreSQL
-- Kafka/RabbitMQ
+- QA
+- 
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=24&duration=3000&pause=1000&color=6A48D7&vCenter=true&repeat=true&random=false&width=500&height=24&lines=%2Fstats)
 ![Kiriruso](https://github-readme-stats.vercel.app/api?username=Kiriruso&show_icons=true&theme=tokyonight)
