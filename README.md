@@ -32,7 +32,7 @@ I will be glad to meet new people✨
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=24&duration=3000&pause=1000&color=6A48D7&vCenter=true&random=false&width=500&height=24&lines=%2Fstudying;%2Fimproving)
 - QA
-- 
+- Backend
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=24&duration=3000&pause=1000&color=6A48D7&vCenter=true&repeat=true&random=false&width=500&height=24&lines=%2Fstats)
 ![Kiriruso](https://github-readme-stats.vercel.app/api?username=Kiriruso&show_icons=true&theme=tokyonight)
