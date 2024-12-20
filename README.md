@@ -7,14 +7,15 @@
 ```json
 {
   "full_name": "Kirill Sosnovskikh",
-  "years_old": 21,
+  "years_old": 22,
   "locale": "RU",
   "city": "Moscow",
   "university": {
     "url": "https://mpei.ru/"
     "name": "NRU MPEI",
     "speciality": "Informatics and Computer Science",
-    "year": 4
+    "year": 1,
+    "degree": "master"
   },
   "main_activity": "Python QA",
   "additional_activity": "Backend",
