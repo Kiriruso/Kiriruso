@@ -17,8 +17,8 @@
     "year": 1,
     "degree": "master"
   },
-  "main_activity": "Python QA",
-  "additional_activity": "Backend",
+  "main_activity": "Automation QA",
+  "additional_activity": "Backend Development",
   "work": "YADRO"
 }
 ```
