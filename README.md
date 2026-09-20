@@ -6,8 +6,8 @@
 
 ```json
 {
-  "full_name": "Kirill Sosnovskikh",
-  "years_old": 24,
+  "fullName": "Kirill Sosnovskikh",
+  "yearsOld": 24,
   "locale": "RU",
   "city": "Moscow",
   "university": {
@@ -15,8 +15,9 @@
     "name": "NRU MPEI",
     "speciality": "Informatics and Computer Science"
   },
-  "main_activity": "Automation QA",
-  "work": "YADRO"
+  "mainActivity": "Automation QA",
+  "work": "YADRO",
+  "grade" "middle"
 }
 ```
 
