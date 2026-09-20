@@ -17,7 +17,7 @@
   },
   "mainActivity": "Automation QA",
   "work": "YADRO",
-  "grade" "middle"
+  "grade": "middle"
 }
 ```
 
